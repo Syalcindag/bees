@@ -6,3 +6,10 @@
     --primary-color: #fa0;
 }
 
+bod::-webkit-scrollbar {
+    display: none;
+}
+
+.hero-bg-img {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR_bqouJALWNJLri0m0BfOO0w5VJBPi77hm1LK1XVUAQ&s");
+}
