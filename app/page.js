@@ -1,4 +1,5 @@
 import React from "react"
+import Featured from "./components/Featured"
 import Hero from "./components/Hero"
 import Info from "./components/Info"
 
@@ -11,6 +12,7 @@ export default function Home() {
     <>
       <Hero/>
       <Info/>
+      <Featured/>
     </>
   )
 }
