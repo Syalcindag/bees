@@ -4,7 +4,7 @@ I make an entertainment site about honey sales  🐝
 
 I hope it will be useful for you  🙏🏻
 
-This project was developed as a reaction next js project  💻
+This project was developed as a next js project  💻
 
 Component structure is used. UseState and useEffect hooks used
 
