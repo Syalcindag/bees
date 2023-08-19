@@ -41,3 +41,12 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ![alt text](./readmeImages/screen2.png)
 
 ![alt text](./readmeImages/screen3.png)
+
+---
+
+## Things To Do
+
+- Add About page and Contact Page
+- Use api for data
+
+
