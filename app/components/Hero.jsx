@@ -9,7 +9,7 @@ const Hero = () => {
         <div className='absolute top-0 left-0 right-0 bottom-0 bg-black/30 z-[2]' />
         <div className='py-5 text-white z-[2]'>
             <Link href={contactUsLink} target="_blank">
-                <button className='px-16 py-4 uppercase rounded-full bg-[var(--primary-color)] border-none text-white font-bold hover:opacity-90 hover:bg-[#fa0] text-1xl md:text-2xl flex items-center justify-center'><AiOutlineWhatsApp className='text-1xl mr-2'/> Contact Us</button>
+                <button className='px-16 py-4 uppercase rounded-full bg-[var(--primary-color)] border-none text-black font-bold hover:opacity-90 hover:bg-[#fa0] text-1xl md:text-2xl flex items-center justify-center'><AiOutlineWhatsApp className='text-1xl mr-2'/> Contact Us</button>
             </Link>
         </div>
         <div className='py-5 text-white z-[2] w-[50%] text-center text-bold text-2xl'>
