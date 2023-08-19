@@ -5,7 +5,7 @@ import {BsFillArrowRightCircleFill} from 'react-icons/bs'
 
 const Benefit = () => {
   return (
-    <section id="bee" className="mb-10">
+    <section id="bee" className="mb-10 pt-4">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             <div className="flex justify-center items-center ">
                 <h2 className="text-[var(--primary-color)] text-3xl font-bold mb-5 md:mb-0">Benefit of Honey</h2>
@@ -14,7 +14,7 @@ const Benefit = () => {
             <div className="flex justify-center overflow-hidden ">
                 <Image
                     className="w-[80%] rounded-xl"
-                    src="https://www.temellikayisi.com/images/urunler/Suzme-Bal-resim-252.jpg"
+                    src="/images/img-benefit.jpg"
                     width={500}
                     height={500}
                     alt=""

@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
+const nextConfig = { // The config script is not used If you use react Image and use external link , you must add this
     images: {
         remotePatterns: [
           {
@@ -7,7 +7,7 @@ const nextConfig = {
             hostname: 'www.temellikayisi.com',
             port: '',
             pathname: '/images/**',
-          },
+          }
         ],
       },
 }
